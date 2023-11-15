@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/jpcs_04/Documents/leec 2.0/prog_concorrente/lab_1/Lab 1 - Files",
+            "binaryPath": "/home/jpcs_04/Documents/leec 2.0/prog_concorrente/lab_1/Lab 1 - Files/-g",
+            "binaryArgs": []
+        }
+    ]
+}
