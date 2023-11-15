@@ -106,5 +106,5 @@ void countLetters(char **word_array, int n_total_words, int *count_letters) {
         if (isalpha(first_letter)) {
             count_letters[tolower(first_letter) - 'a']++;
         }
-    }
+    }cfgvhjbkn
 }
